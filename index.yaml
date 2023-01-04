@@ -1,3 +1,12 @@
 apiVersion: v1
-entries: {}
-generated: "2023-01-04T16:14:45.778957+05:30"
+entries:
+  helm-playground:
+  - apiVersion: v1
+    created: "2023-01-04T16:24:00.675937+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 0042c320818673132dc29f36728efdb2c46c2450c5d63c651a22d23fb81067d9
+    name: helm-playground
+    urls:
+    - git@github.com:amnic/helm-playground.git/helm-playground-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-01-04T16:24:00.675165+05:30"
